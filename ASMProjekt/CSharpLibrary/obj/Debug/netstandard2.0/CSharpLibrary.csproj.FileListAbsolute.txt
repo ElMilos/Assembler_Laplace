@@ -1,0 +1,10 @@
+D:\c#\ASMProjekt\CSharpLibrary\bin\Debug\netstandard2.0\CSharpLibrary.deps.json
+D:\c#\ASMProjekt\CSharpLibrary\bin\Debug\netstandard2.0\CSharpLibrary.dll
+D:\c#\ASMProjekt\CSharpLibrary\bin\Debug\netstandard2.0\CSharpLibrary.pdb
+D:\c#\ASMProjekt\CSharpLibrary\obj\Debug\netstandard2.0\CSharpLibrary.csproj.AssemblyReference.cache
+D:\c#\ASMProjekt\CSharpLibrary\obj\Debug\netstandard2.0\CSharpLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ASMProjekt\CSharpLibrary\obj\Debug\netstandard2.0\CSharpLibrary.AssemblyInfoInputs.cache
+D:\c#\ASMProjekt\CSharpLibrary\obj\Debug\netstandard2.0\CSharpLibrary.AssemblyInfo.cs
+D:\c#\ASMProjekt\CSharpLibrary\obj\Debug\netstandard2.0\CSharpLibrary.csproj.CoreCompileInputs.cache
+D:\c#\ASMProjekt\CSharpLibrary\obj\Debug\netstandard2.0\CSharpLibrary.dll
+D:\c#\ASMProjekt\CSharpLibrary\obj\Debug\netstandard2.0\CSharpLibrary.pdb

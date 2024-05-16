@@ -1,0 +1,4 @@
+﻿  Assembling Asm.asm...
+     Trwa tworzenie biblioteki D:\c#\ASMProjekt\x64\Debug\ASMDLL.lib i obiektu D:\c#\ASMProjekt\x64\Debug\ASMDLL.exp
+ASMDLL.exp : warning LNK4070: /OUT: dyrektywa JAAsm.dll w pliku .EXP jest inna niż nazwa pliku wyjściowego "D:\c#\ASMProjekt\x64\Debug\ASMDLL.dll"; dyrektywa została zignorowana
+  ASMDLL.vcxproj -> D:\c#\ASMProjekt\x64\Debug\ASMDLL.dll

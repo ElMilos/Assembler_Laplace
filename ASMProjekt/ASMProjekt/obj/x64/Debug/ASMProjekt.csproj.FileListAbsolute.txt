@@ -1,0 +1,16 @@
+D:\c#\ASMProjekt\ASMProjekt\bin\x64\Debug\ASMProjekt.exe.config
+D:\c#\ASMProjekt\ASMProjekt\bin\x64\Debug\ASMProjekt.exe
+D:\c#\ASMProjekt\ASMProjekt\bin\x64\Debug\ASMProjekt.pdb
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Debug\ASMProjekt.csproj.AssemblyReference.cache
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Debug\ASMProjekt.csproj.SuggestedBindingRedirects.cache
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Debug\ASMProjekt.csproj.CoreCompileInputs.cache
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Debug\ASMProjekt.exe
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Debug\ASMProjekt.pdb
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Debug\ASMProjekt.Window.resources
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Debug\ASMProjekt.csproj.GenerateResource.cache
+D:\c#\ASMProjekt\ASMProjekt\bin\x64\Debug\CSharpLibrary.dll
+D:\c#\ASMProjekt\ASMProjekt\bin\x64\Debug\System.Drawing.Common.dll
+D:\c#\ASMProjekt\ASMProjekt\bin\x64\Debug\CSharpLibrary.pdb
+D:\c#\ASMProjekt\ASMProjekt\bin\x64\Debug\System.Drawing.Common.pdb
+D:\c#\ASMProjekt\ASMProjekt\bin\x64\Debug\System.Drawing.Common.xml
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Debug\ASMProjekt.csproj.CopyComplete

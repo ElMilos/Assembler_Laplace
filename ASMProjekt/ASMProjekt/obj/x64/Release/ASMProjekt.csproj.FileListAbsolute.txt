@@ -1,0 +1,10 @@
+D:\c#\ASMProjekt\ASMProjekt\bin\x64\Release\ASMProjekt.exe.config
+D:\c#\ASMProjekt\ASMProjekt\bin\x64\Release\ASMProjekt.exe
+D:\c#\ASMProjekt\ASMProjekt\bin\x64\Release\ASMProjekt.pdb
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Release\ASMProjekt.csproj.AssemblyReference.cache
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Release\ASMProjekt.csproj.SuggestedBindingRedirects.cache
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Release\ASMProjekt.Window.resources
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Release\ASMProjekt.csproj.GenerateResource.cache
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Release\ASMProjekt.csproj.CoreCompileInputs.cache
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Release\ASMProjekt.exe
+D:\c#\ASMProjekt\ASMProjekt\obj\x64\Release\ASMProjekt.pdb
